@@ -1,3 +1,5 @@
+<div align="center">
+
 # Bem vindo(a) ao meu perfil
 
 <div align="center">
@@ -22,4 +24,5 @@
  
   ![Snake animation](https://github.com/Diogo-Mello/Diogo-Mello/blob/output/github-contribution-grid-snake.svg)
 
+</div>
 </div>
