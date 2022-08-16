@@ -20,6 +20,7 @@
   <img align="center" alt="PHP" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="Jquery" width="50" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="GIT" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt=Pascal" width="50" src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency/256/Pascal-Lite-icon.png">
 </div>
  
  <br>
