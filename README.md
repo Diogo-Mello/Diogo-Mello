@@ -19,6 +19,7 @@
   <img align="center" alt="GIT" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt=Pascal" width="70" src="https://icons.iconarchive.com/icons/cjdowner/cryptocurrency/256/Pascal-Lite-icon.png">
   <img align="center" alt=Mysql" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt=Python" width="70" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
  
  <br>
