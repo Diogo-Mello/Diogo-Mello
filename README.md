@@ -37,10 +37,12 @@
   <a href = "mailto:diogomellodacrus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/diogo-mello-da-crus-0821b4234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-    <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+    
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Diogo-Mello}/count.svg" /></p> 
 <br></div>
+                                                                                                     
+  <div align="center">                                                                                                  
  
   ![Snake animation](https://github.com/Diogo-Mello/Diogo-Mello/blob/output/github-contribution-grid-snake.svg)
 
