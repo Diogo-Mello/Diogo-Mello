@@ -17,12 +17,12 @@
   <img align="center" alt="HTML" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" width="70" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="PHP" width="70" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+  <img align="center" alt="GIT" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="CodeIgniter" width="70" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg">
+  <img align="center" alt=Mysql" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
                                                                                                                                          
   ## Estudando:
-  <img align="center" alt="PHP" width="70" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="CodeIgniter" width="70" src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg">
-  <img align="center" alt="GIT" width="70" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt=Mysql" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt=TypeScript" width="70" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt=Angular" width="70" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
                                                                                                                                          
