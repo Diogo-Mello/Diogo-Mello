@@ -25,7 +25,7 @@
                                                                                                                                          
   ## Estudando:
 
-  <img align="center" alt=Angular" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt=C" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   
                                                                                                                                          
 </div>
