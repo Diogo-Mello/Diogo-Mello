@@ -11,8 +11,8 @@
 </div>
 <div style="display: inline_block" align="center">
   
-  # Tecnologias:
-  
+  # Technologies:
+ 
   <br>
   <img align="center" alt="HTML" width="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" width="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -23,7 +23,7 @@
   <img align="center" alt=Mysql" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt=Angular" width="70" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
                                                                                                                                          
-  ## Estudando:
+  ## Studying:
 
   <img align="center" alt="C" width="70" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   
