@@ -35,6 +35,7 @@
 ![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=r)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
 
 
  
