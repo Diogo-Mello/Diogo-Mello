@@ -18,7 +18,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql)&nbsp;
 ![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)
 
 ### Tools:
 ![Ionic](https://img.shields.io/badge/-ionic-0D1117?style=for-the-badge&logo=ionic)&nbsp;
@@ -30,6 +29,7 @@
 ### Other Knowledge:
 ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)
   
 ### Studying in this moment:
 ![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=r)&nbsp;
