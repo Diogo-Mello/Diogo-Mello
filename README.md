@@ -21,7 +21,7 @@
 
 ### Tools:
 ![Ionic](https://img.shields.io/badge/-ionic-0D1117?style=for-the-badge&logo=ionic)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
 ![Code-Igniter4](https://img.shields.io/badge/-CodeIgniter-0D1117?style=for-the-badge&logo=codeIgniter)&nbsp;
 ![GIT](https://img.shields.io/badge/-GIT-0D1117?style=for-the-badge&logo=git)&nbsp;
 ![chatGPT](https://img.shields.io/badge/-GPT-0D1117?style=for-the-badge&logo=OpenAI)&nbsp;
