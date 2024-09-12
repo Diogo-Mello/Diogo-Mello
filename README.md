@@ -27,7 +27,7 @@
 ![chatGPT](https://img.shields.io/badge/-GPT-0D1117?style=for-the-badge&logo=OpenAI)&nbsp;
 
 ### Other Knowledge:
-![Angular](https://img.shields.io/badge/-Angular-0D1117?style=for-the-badge&logo=angular)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)
   
@@ -35,7 +35,7 @@
 ![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=r)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
+
 
 
  
