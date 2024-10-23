@@ -32,9 +32,8 @@
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)
   
 ### Studying in this moment:
-![R](https://img.shields.io/badge/-R-0D1117?style=for-the-badge&logo=r)&nbsp;
+![Node.JS](https://img.shields.io/badge/-node-0D1117?style=for-the-badge&logo=nodedotjs)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
-![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c)
 
 
 
