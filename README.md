@@ -16,23 +16,29 @@
 ![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql)&nbsp;
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php)&nbsp;
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs)&nbsp;
+![Code-Igniter4](https://img.shields.io/badge/-CodeIgniter-0D1117?style=for-the-badge&logo=codeIgniter)&nbsp;
 
 ### Tools:
-![Ionic](https://img.shields.io/badge/-ionic-0D1117?style=for-the-badge&logo=ionic)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
-![Code-Igniter4](https://img.shields.io/badge/-CodeIgniter-0D1117?style=for-the-badge&logo=codeIgniter)&nbsp;
 ![GIT](https://img.shields.io/badge/-GIT-0D1117?style=for-the-badge&logo=git)&nbsp;
 ![chatGPT](https://img.shields.io/badge/-GPT-0D1117?style=for-the-badge&logo=OpenAI)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=vscode)&nbsp;
+
 
 ### Other Knowledge:
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c)
+![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php)&nbsp;
   
 ### Studying in this moment:
 ![Node.JS](https://img.shields.io/badge/-node-0D1117?style=for-the-badge&logo=nodedotjs)&nbsp;
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 
 
