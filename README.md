@@ -27,6 +27,7 @@
 
 ### Tools:
 ![GIT](https://img.shields.io/badge/-GIT-0D1117?style=for-the-badge&logo=git)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
 ![chatGPT](https://img.shields.io/badge/-GPT-0D1117?style=for-the-badge&logo=OpenAI)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=vscode)&nbsp;
 
