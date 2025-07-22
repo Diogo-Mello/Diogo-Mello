@@ -43,7 +43,7 @@
 ![Node.JS](https://img.shields.io/badge/-node-0D1117?style=for-the-badge&logo=nodedotjs)&nbsp;
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express)&nbsp;
-![PostGre](https://img.shields.io/badge/-PostGre-0D1117?style=for-the-badge&logo=postgresql)&nbsp;
+![PostGreSQL](https://img.shields.io/badge/-PostGre-0D1117?style=for-the-badge&logo=postgresql)&nbsp;
 
 ---
 <picture>
