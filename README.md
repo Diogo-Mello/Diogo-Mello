@@ -42,7 +42,11 @@
 ![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)&nbsp;
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/output/pacman-contribution-graph.svg">
+</picture>
 
  
 <!-- <p align="center"><b>Visitors Count</b></p>  
