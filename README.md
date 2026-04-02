@@ -21,27 +21,22 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript)&nbsp;
+![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql)&nbsp;
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
 ![Ionic](https://img.shields.io/badge/Ionic-0D1117?style=for-the-badge&logo=ionic)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs)&nbsp;
-![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel)&nbsp;
 
 ### Tools:
 ![GIT](https://img.shields.io/badge/-GIT-0D1117?style=for-the-badge&logo=git)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
 ![chatGPT](https://img.shields.io/badge/-GPT-0D1117?style=for-the-badge&logo=OpenAI)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=vscode)&nbsp;
-
-### Other Knowledge:
-![PHP](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php)&nbsp;
-![Code-Igniter4](https://img.shields.io/badge/-CodeIgniter-0D1117?style=for-the-badge&logo=codeIgniter)&nbsp;
   
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-node-0D1117?style=for-the-badge&logo=nodedotjs)&nbsp;
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
 ![Express](https://img.shields.io/badge/Express-0D1117?style=for-the-badge&logo=express)&nbsp;
 ![PostGreSQL](https://img.shields.io/badge/-PostGre-0D1117?style=for-the-badge&logo=postgresql)&nbsp;
 
