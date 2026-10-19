@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" preserveAspectRatio="none" role="img" aria-label="Mel escorrendo">
+  <defs><linearGradient id="mel" x1="0" y1="0" x2="0" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFE100"/>
+      <stop offset="100%" stop-color="#FFB81C"/>
+    </linearGradient></defs>
+  <path d="M0 0 L0 66.0 Q25 66.0 25.0 71.6 Q75 77.2 75.0 78.0 Q125 78.7 125.0 76.2 Q175 73.7 175.0 72.1 Q225 70.6 225.0 69.8 Q275 69.0 275.0 65.7 Q325 62.3 325.0 57.5 Q375 52.7 375.0 51.6 Q425 50.6 425.0 55.1 Q475 59.6 475.0 64.9 Q525 70.2 525.0 72.0 Q575 73.7 575.0 73.6 Q625 73.4 625.0 74.5 Q675 75.5 675.0 76.0 Q725 76.5 725.0 72.7 Q775 69.0 775.0 62.7 Q825 56.5 825.0 53.7 Q875 50.8 875.0 53.4 Q925 55.9 925.0 59.5 Q975 63.1 975.0 64.5 T1000 66.0 L1000 0 Z" fill="#E68A00">
+      <animate attributeName="d" values="M0 0 L0 66.0 Q25 66.0 25.0 71.6 Q75 77.2 75.0 78.0 Q125 78.7 125.0 76.2 Q175 73.7 175.0 72.1 Q225 70.6 225.0 69.8 Q275 69.0 275.0 65.7 Q325 62.3 325.0 57.5 Q375 52.7 375.0 51.6 Q425 50.6 425.0 55.1 Q475 59.6 475.0 64.9 Q525 70.2 525.0 72.0 Q575 73.7 575.0 73.6 Q625 73.4 625.0 74.5 Q675 75.5 675.0 76.0 Q725 76.5 725.0 72.7 Q775 69.0 775.0 62.7 Q825 56.5 825.0 53.7 Q875 50.8 875.0 53.4 Q925 55.9 925.0 59.5 Q975 63.1 975.0 64.5 T1000 66.0 L1000 0 Z;M0 0 L0 79.7 Q25 79.7 25.0 75.8 Q75 72.0 75.0 69.3 Q125 66.6 125.0 65.6 Q175 64.6 175.0 62.2 Q225 59.7 225.0 56.1 Q275 52.5 275.0 52.5 Q325 52.4 325.0 57.6 Q375 62.8 375.0 68.5 Q425 74.2 425.0 75.6 Q475 77.0 475.0 75.6 Q525 74.2 525.0 73.7 Q575 73.2 575.0 72.8 Q625 72.5 625.0 68.9 Q675 65.2 675.0 59.6 Q725 54.0 725.0 52.0 Q775 50.1 775.0 53.7 Q825 57.4 825.0 62.1 Q875 66.8 875.0 68.7 Q925 70.5 925.0 71.2 Q975 71.9 975.0 74.1 T1000 76.3 L1000 0 Z;M0 0 L0 62.2 Q25 62.2 25.0 61.4 Q75 60.7 75.0 59.4 Q125 58.2 125.0 56.0 Q175 53.8 175.0 54.6 Q225 55.3 225.0 60.9 Q275 66.5 275.0 72.1 Q325 77.7 325.0 78.4 Q375 79.1 375.0 76.3 Q425 73.6 425.0 71.7 Q475 69.8 475.0 69.0 Q525 68.1 525.0 65.0 Q575 61.9 575.0 57.3 Q625 52.7 625.0 51.7 Q675 50.8 675.0 55.4 Q725 59.9 725.0 65.4 Q775 70.9 775.0 72.7 Q825 74.5 825.0 74.1 Q875 73.7 875.0 74.4 Q925 75.1 925.0 75.4 Q975 75.7 975.0 72.1 T1000 68.4 L1000 0 Z;M0 0 L0 58.1 Q25 58.1 25.0 57.2 Q75 56.3 75.0 57.7 Q125 59.1 125.0 64.6 Q175 70.0 175.0 75.1 Q225 80.3 225.0 80.1 Q275 79.9 275.0 75.8 Q325 71.7 325.0 68.7 Q375 65.7 375.0 64.7 Q425 63.7 425.0 61.6 Q475 59.5 475.0 56.1 Q525 52.8 525.0 52.8 Q575 52.8 575.0 58.0 Q625 63.3 625.0 69.1 Q675 74.8 675.0 76.2 Q725 77.6 725.0 75.9 Q775 74.2 775.0 73.4 Q825 72.6 825.0 72.1 Q875 71.6 875.0 68.2 Q925 64.7 925.0 59.3 Q975 53.8 975.0 51.9 T1000 50.0 L1000 0 Z;M0 0 L0 62.0 Q25 62.0 25.0 66.6 Q75 71.1 75.0 76.0 Q125 80.8 125.0 80.6 Q175 80.4 175.0 75.5 Q225 70.6 225.0 66.4 Q275 62.3 275.0 61.3 Q325 60.2 325.0 59.5 Q375 58.7 375.0 56.7 Q425 54.6 425.0 54.7 Q475 54.8 475.0 59.7 Q525 64.7 525.0 70.7 Q575 76.8 575.0 78.3 Q625 79.9 625.0 77.2 Q675 74.4 675.0 72.1 Q725 69.7 725.0 68.8 Q775 67.9 775.0 65.4 Q825 62.9 825.0 58.4 Q875 53.9 875.0 52.2 Q925 50.4 925.0 54.3 Q975 58.3 975.0 64.1 T1000 70.0 L1000 0 Z" dur="9s" repeatCount="indefinite"/>
+    </path>
+  <path d="M0 0 L0 54.0 Q25 54.0 25.0 58.7 Q75 63.3 75.0 64.0 Q125 64.6 125.0 62.5 Q175 60.4 175.0 59.1 Q225 57.8 225.0 57.1 Q275 56.5 275.0 53.7 Q325 51.0 325.0 46.9 Q375 42.9 375.0 42.0 Q425 41.2 425.0 44.9 Q475 48.7 475.0 53.1 Q525 57.5 525.0 59.0 Q575 60.4 575.0 60.3 Q625 60.2 625.0 61.1 Q675 61.9 675.0 62.3 Q725 62.7 725.0 59.6 Q775 56.5 775.0 51.3 Q825 46.1 825.0 43.7 Q875 41.4 875.0 43.5 Q925 45.6 925.0 48.6 Q975 51.6 975.0 52.8 T1000 54.0 L1000 0 Z" fill="url(#mel)">
+      <animate attributeName="d" values="M0 0 L0 54.0 Q25 54.0 25.0 58.7 Q75 63.3 75.0 64.0 Q125 64.6 125.0 62.5 Q175 60.4 175.0 59.1 Q225 57.8 225.0 57.1 Q275 56.5 275.0 53.7 Q325 51.0 325.0 46.9 Q375 42.9 375.0 42.0 Q425 41.2 425.0 44.9 Q475 48.7 475.0 53.1 Q525 57.5 525.0 59.0 Q575 60.4 575.0 60.3 Q625 60.2 625.0 61.1 Q675 61.9 675.0 62.3 Q725 62.7 725.0 59.6 Q775 56.5 775.0 51.3 Q825 46.1 825.0 43.7 Q875 41.4 875.0 43.5 Q925 45.6 925.0 48.6 Q975 51.6 975.0 52.8 T1000 54.0 L1000 0 Z;M0 0 L0 65.4 Q25 65.4 25.0 62.2 Q75 59.0 75.0 56.7 Q125 54.5 125.0 53.6 Q175 52.8 175.0 50.8 Q225 48.8 225.0 45.8 Q275 42.8 275.0 42.7 Q325 42.7 325.0 47.0 Q375 51.4 375.0 56.1 Q425 60.8 425.0 62.0 Q475 63.2 475.0 62.0 Q525 60.8 525.0 60.4 Q575 60.0 575.0 59.7 Q625 59.4 625.0 56.4 Q675 53.4 675.0 48.7 Q725 44.0 725.0 42.4 Q775 40.7 775.0 43.8 Q825 46.8 825.0 50.7 Q875 54.7 875.0 56.2 Q925 57.7 925.0 58.3 Q975 58.9 975.0 60.7 T1000 62.6 L1000 0 Z;M0 0 L0 50.8 Q25 50.8 25.0 50.2 Q75 49.6 75.0 48.5 Q125 47.5 125.0 45.7 Q175 43.8 175.0 44.5 Q225 45.1 225.0 49.8 Q275 54.4 275.0 59.1 Q325 63.8 325.0 64.4 Q375 64.9 375.0 62.6 Q425 60.3 425.0 58.7 Q475 57.2 475.0 56.5 Q525 55.7 525.0 53.2 Q575 50.6 575.0 46.8 Q625 42.9 625.0 42.1 Q675 41.3 675.0 45.1 Q725 49.0 725.0 53.5 Q775 58.1 775.0 59.6 Q825 61.1 825.0 60.8 Q875 60.4 875.0 61.0 Q925 61.5 925.0 61.8 Q975 62.1 975.0 59.1 T1000 56.0 L1000 0 Z;M0 0 L0 47.4 Q25 47.4 25.0 46.7 Q75 45.9 75.0 47.1 Q125 48.3 125.0 52.8 Q175 57.3 175.0 61.6 Q225 65.9 225.0 65.7 Q275 65.6 275.0 62.2 Q325 58.7 325.0 56.2 Q375 53.8 375.0 52.9 Q425 52.1 425.0 50.3 Q475 48.6 475.0 45.8 Q525 43.0 525.0 43.0 Q575 43.0 575.0 47.4 Q625 51.7 625.0 56.5 Q675 61.4 675.0 62.5 Q725 63.7 725.0 62.3 Q775 60.9 775.0 60.2 Q825 59.5 825.0 59.1 Q875 58.7 875.0 55.8 Q925 52.9 925.0 48.4 Q975 43.9 975.0 42.3 T1000 40.7 L1000 0 Z;M0 0 L0 50.7 Q25 50.7 25.0 54.5 Q75 58.3 75.0 62.3 Q125 66.3 125.0 66.2 Q175 66.0 175.0 61.9 Q225 57.8 225.0 54.4 Q275 50.9 275.0 50.0 Q325 49.2 325.0 48.6 Q375 47.9 375.0 46.2 Q425 44.5 425.0 44.6 Q475 44.7 475.0 48.8 Q525 52.9 525.0 58.0 Q575 63.0 575.0 64.3 Q625 65.6 625.0 63.3 Q675 61.0 675.0 59.0 Q725 57.0 725.0 56.3 Q775 55.6 775.0 53.5 Q825 51.5 825.0 47.7 Q875 43.9 875.0 42.5 Q925 41.0 925.0 44.3 Q975 47.6 975.0 52.4 T1000 57.3 L1000 0 Z" dur="6s" repeatCount="indefinite"/>
+    </path>
+  <g transform="translate(90 48)">
+      <rect x="-4" y="0" width="8" height="0" rx="4" fill="#FFC400">
+        <animate attributeName="height" values="0;46;46;0;0" keyTimes="0;0.5;0.56;0.68;1" dur="4.2s" begin="0s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="0" cy="0" r="7" fill="#FFC400">
+        <animate attributeName="cy" values="0;46;46;196;196" keyTimes="0;0.5;0.56;0.86;1" calcMode="spline" keySplines="0.3 0 0.7 1;0 0 1 1;0.55 0 1 1;0 0 1 1" dur="4.2s" begin="0s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.86;1" dur="4.2s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+    </g><g transform="translate(260 48)">
+      <rect x="-4" y="0" width="8" height="0" rx="4" fill="#FFC400">
+        <animate attributeName="height" values="0;64;64;0;0" keyTimes="0;0.5;0.56;0.68;1" dur="4.2s" begin="2.3s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="0" cy="0" r="7" fill="#FFC400">
+        <animate attributeName="cy" values="0;64;64;214;214" keyTimes="0;0.5;0.56;0.86;1" calcMode="spline" keySplines="0.3 0 0.7 1;0 0 1 1;0.55 0 1 1;0 0 1 1" dur="4.2s" begin="2.3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.86;1" dur="4.2s" begin="2.3s" repeatCount="indefinite"/>
+      </circle>
+    </g><g transform="translate(430 48)">
+      <rect x="-4" y="0" width="8" height="0" rx="4" fill="#FFC400">
+        <animate attributeName="height" values="0;38;38;0;0" keyTimes="0;0.5;0.56;0.68;1" dur="4.2s" begin="1.1s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="0" cy="0" r="7" fill="#FFC400">
+        <animate attributeName="cy" values="0;38;38;188;188" keyTimes="0;0.5;0.56;0.86;1" calcMode="spline" keySplines="0.3 0 0.7 1;0 0 1 1;0.55 0 1 1;0 0 1 1" dur="4.2s" begin="1.1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.86;1" dur="4.2s" begin="1.1s" repeatCount="indefinite"/>
+      </circle>
+    </g><g transform="translate(610 48)">
+      <rect x="-4" y="0" width="8" height="0" rx="4" fill="#FFC400">
+        <animate attributeName="height" values="0;70;70;0;0" keyTimes="0;0.5;0.56;0.68;1" dur="4.2s" begin="3.4s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="0" cy="0" r="7" fill="#FFC400">
+        <animate attributeName="cy" values="0;70;70;220;220" keyTimes="0;0.5;0.56;0.86;1" calcMode="spline" keySplines="0.3 0 0.7 1;0 0 1 1;0.55 0 1 1;0 0 1 1" dur="4.2s" begin="3.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.86;1" dur="4.2s" begin="3.4s" repeatCount="indefinite"/>
+      </circle>
+    </g><g transform="translate(780 48)">
+      <rect x="-4" y="0" width="8" height="0" rx="4" fill="#FFC400">
+        <animate attributeName="height" values="0;50;50;0;0" keyTimes="0;0.5;0.56;0.68;1" dur="4.2s" begin="0.6s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="0" cy="0" r="7" fill="#FFC400">
+        <animate attributeName="cy" values="0;50;50;200;200" keyTimes="0;0.5;0.56;0.86;1" calcMode="spline" keySplines="0.3 0 0.7 1;0 0 1 1;0.55 0 1 1;0 0 1 1" dur="4.2s" begin="0.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.86;1" dur="4.2s" begin="0.6s" repeatCount="indefinite"/>
+      </circle>
+    </g><g transform="translate(930 48)">
+      <rect x="-4" y="0" width="8" height="0" rx="4" fill="#FFC400">
+        <animate attributeName="height" values="0;42;42;0;0" keyTimes="0;0.5;0.56;0.68;1" dur="4.2s" begin="2.8s" repeatCount="indefinite"/>
+      </rect>
+      <circle cx="0" cy="0" r="7" fill="#FFC400">
+        <animate attributeName="cy" values="0;42;42;192;192" keyTimes="0;0.5;0.56;0.86;1" calcMode="spline" keySplines="0.3 0 0.7 1;0 0 1 1;0.55 0 1 1;0 0 1 1" dur="4.2s" begin="2.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.8;0.86;1" dur="4.2s" begin="2.8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  <g>
+    <animateMotion dur="14s" repeatCount="indefinite" path="M-60 160 C 150 110, 300 190, 500 140 S 850 120, 1060 165" rotate="0"/>
+    <g transform="scale(1.6)">
+      <g>
+        <animateTransform attributeName="transform" type="translate" values="0,0;0,-3;0,0" dur="0.7s" repeatCount="indefinite"/>
+        <ellipse cx="-2" cy="-7" rx="5" ry="7" fill="#FFFFFF" fill-opacity="0.75" stroke="#14110B" stroke-opacity="0.35" stroke-width="0.8" transform="rotate(-25 -2 -7)">
+          <animate attributeName="ry" values="7;3;7" dur="0.12s" repeatCount="indefinite"/>
+        </ellipse>
+        <ellipse cx="3" cy="-7" rx="4" ry="6" fill="#FFFFFF" fill-opacity="0.65" stroke="#14110B" stroke-opacity="0.35" stroke-width="0.8" transform="rotate(20 3 -7)">
+          <animate attributeName="ry" values="6;2.5;6" dur="0.12s" repeatCount="indefinite"/>
+        </ellipse>
+        <path d="M-12 0 L-16 0.8 L-12 1.6 Z" fill="#14110B"/>
+        <ellipse cx="-2" cy="0.8" rx="10" ry="6.5" fill="#FFD000" stroke="#14110B" stroke-width="1"/>
+        <path d="M-6 -5.3 Q-4.5 0.8 -6 6.9 M-1 -6.2 Q0.5 0.8 -1 7.8" stroke="#14110B" stroke-width="2.4" fill="none"/>
+        <circle cx="9" cy="0" r="4.6" fill="#14110B"/>
+        <circle cx="10.6" cy="-1.2" r="1.2" fill="#FFD000"/>
+        <path d="M10 -4 Q12 -9 15 -9.5 M8 -4.2 Q8.5 -9.5 11 -11" stroke="#14110B" stroke-width="1" fill="none" stroke-linecap="round"/>
+      </g>
+    </g>
+  </g>
+</svg>
