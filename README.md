@@ -1,56 +1,63 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-escuro.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-claro.svg">
-  <img alt="Diogo Mello, fundador da Vynce Labs" src="assets/banner-escuro.svg" width="100%">
-</picture>
+<img width="100%" src="assets/topo.svg"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&color=FFD000&size=32&center=true&vCenter=true&width=1000&height=60&pause=900&lines=Hi,+my+name+is+Diogo+Mello;Founder+of+Vynce+Labs+%F0%9F%90%9D;I'm+studying+I.T.+Management+at+Fatec+Tatu%C3%AD;Start+small.+Connect.+Evolve.;Be+welcome!+:%29)](https://vyncelabs.com.br)
+
+<div align="center">
+  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=Diogo-Mello&show_icons=true&count_private=true&hide_border=true&title_color=FFD000&icon_color=FFD000&text_color=c9d1d9&bg_color=0d1117" alt="Diogo Mello github stats" />
+  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-Mello&layout=compact&hide_border=true&title_color=FFD000&text_color=c9d1d9&bg_color=0d1117" alt="Top languages" />
+</div>
 
 <br>
 
-Sou o Diogo. Fundei a [Vynce Labs](https://vyncelabs.com.br) para fazer software do jeito que eu acredito: entender o problema antes de escolher a tecnologia, começar pelo menor pedaço que já resolve alguma coisa e ir conectando o resto depois.
+<div align="center">
+  <a href="https://vyncelabs.com.br" target="_blank"><img src="https://img.shields.io/badge/Vynce_Labs-FFD000?style=for-the-badge&logoColor=0D1117" alt="Vynce Labs"></a>
+  <a href="https://instagram.com/vyncelabs" target="_blank"><img src="https://img.shields.io/badge/@vyncelabs-0D1117?style=for-the-badge&logo=instagram&logoColor=FFD000" alt="Instagram da Vynce"></a>
+  <a href="https://instagram.com/di_mello_" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.linkedin.com/in/diogomellodacrus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
 
-A Vynce chama quem trabalha com a gente de parceiro, não de cliente. O mascote é uma abelha porque é assim que a coisa funciona por aqui: cada módulo faz o seu trabalho e a colmeia cresce junto.
+---
 
-### Na bancada agora
+### 🐝 Buzzing around right now
+🛍️ **Vynce Modas** · a full system for clothing stores, from the counter to WhatsApp<br>
+💰 **Sólon** · my final project at Fatec, personal finance with Open Finance<br>
+🎙️ **Papo de Faculdade** · the website of a college podcast, running on the edge<br>
+🔦 **Vynce Arcade** · games you play with a laser projector
 
-**Vynce Modas** é o sistema para loja de roupa. Balcão, caixa, relatórios, frete, nota fiscal pelo Bling e atendimento pelo WhatsApp, tudo conversando entre si. Agora estou colocando agentes de IA rodando local para ajudar na gestão.
+### Main skills:
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=FFD000)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFD000)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=FFD000)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=FFD000)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css&logoColor=FFD000)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFD000)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FFD000)&nbsp;
 
-**Sólon** é o meu trabalho de graduação na Fatec. Um app de gestão financeira pessoal que puxa seu extrato pelo Open Finance, entende as compras parceladas e simula como vai estar o seu mês daqui a pouco.
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FFD000)&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FFD000)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=FFD000)&nbsp;
+![Electron](https://img.shields.io/badge/Electron-0D1117?style=for-the-badge&logo=electron&logoColor=FFD000)&nbsp;
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-0D1117?style=for-the-badge&logo=cloudflareworkers&logoColor=FFD000)&nbsp;
 
-**Papo de Faculdade** é o site do podcast universitário que leva o mesmo nome. Aconteceu na faculdade, virou papo. Roda inteiro na borda da Cloudflare, com painel próprio para a equipe publicar.
+### Tools:
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=FFD000)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=FFD000)&nbsp;
+![Claude](https://img.shields.io/badge/-Claude-0D1117?style=for-the-badge&logo=claude&logoColor=FFD000)&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=vscode&logoColor=FFD000)&nbsp;
 
-**Vynce Arcade** é o lado mais divertido: jogos feitos para projetor laser, controlados ao vivo, com ranking aparecendo no telão.
-
-### Com o que eu construo
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-0B0B0C?style=flat-square&logo=typescript&logoColor=FFD000" alt="TypeScript">
-  <img src="https://img.shields.io/badge/React-0B0B0C?style=flat-square&logo=react&logoColor=FFD000" alt="React">
-  <img src="https://img.shields.io/badge/Laravel-0B0B0C?style=flat-square&logo=laravel&logoColor=FFD000" alt="Laravel">
-  <img src="https://img.shields.io/badge/PHP-0B0B0C?style=flat-square&logo=php&logoColor=FFD000" alt="PHP">
-  <img src="https://img.shields.io/badge/Node.js-0B0B0C?style=flat-square&logo=nodedotjs&logoColor=FFD000" alt="Node.js">
-  <img src="https://img.shields.io/badge/Cloudflare_Workers-0B0B0C?style=flat-square&logo=cloudflareworkers&logoColor=FFD000" alt="Cloudflare Workers">
-  <img src="https://img.shields.io/badge/MySQL-0B0B0C?style=flat-square&logo=mysql&logoColor=FFD000" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-0B0B0C?style=flat-square&logo=postgresql&logoColor=FFD000" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Electron-0B0B0C?style=flat-square&logo=electron&logoColor=FFD000" alt="Electron">
-  <img src="https://img.shields.io/badge/Figma-0B0B0C?style=flat-square&logo=figma&logoColor=FFD000" alt="Figma">
-</p>
-
-### A colmeia
-
-Em vez de cobrinha ou pac-man, aqui cada dia do meu último ano vira um favo. Uma abelha passa por todos os dias em que eu contribuí e enche o favo de mel, mais dourado quanto mais eu fiz naquele dia. O favo do dia mais cheio do ano solta um brilho quando ela chega. Atualiza sozinha todo dia.
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/colmeia/colmeia-escura.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/colmeia/colmeia-clara.svg">
-  <img alt="Colmeia de commits: uma abelha enche de mel os dias em que eu contribuí" src="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/colmeia/colmeia-escura.svg" width="100%">
+  <img alt="Commit hive: a bee fills every day I contributed with honey" src="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/colmeia/colmeia-escura.svg">
 </picture>
 
-### Onde me achar
+---
 
-<p>
-  <a href="https://vyncelabs.com.br"><img src="https://img.shields.io/badge/vyncelabs.com.br-FFD000?style=for-the-badge&labelColor=0B0B0C&logoColor=0B0B0C" alt="Site da Vynce Labs"></a>
-  <a href="https://instagram.com/vyncelabs"><img src="https://img.shields.io/badge/@vyncelabs-0B0B0C?style=for-the-badge&logo=instagram&logoColor=FFD000" alt="Instagram da Vynce Labs"></a>
-  <a href="https://instagram.com/di_mello_"><img src="https://img.shields.io/badge/@di__mello__-0B0B0C?style=for-the-badge&logo=instagram&logoColor=FFD000" alt="Meu Instagram"></a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Diogo-Mello&color=FFD000&style=for-the-badge&label=bees+visiting" alt="Profile views" />
+</div>
 
-<sub>Comece pequeno. Conecte. Evolua.</sub>
+<img width="100%" src="assets/rodape.svg"/>

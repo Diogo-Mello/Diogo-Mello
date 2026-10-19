@@ -27,7 +27,7 @@ async function buscarCalendario() {
 }
 
 const NIVEIS = { NONE: 0, FIRST_QUARTILE: 1, SECOND_QUARTILE: 2, THIRD_QUARTILE: 3, FOURTH_QUARTILE: 4 };
-const MESES = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'];
+const MESES = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
 const TEMAS = {
     escuro: {
@@ -166,7 +166,7 @@ function desenhar(calendario, t) {
             const b = fmt(chega + 0.012);
             const d = fmt(chega + 0.022);
             const real = c === maior;
-            const titulo = `<title>${c.date}: ${c.contributionCount} ${c.contributionCount === 1 ? 'contribuição' : 'contribuições'}</title>`;
+            const titulo = `<title>${c.date}: ${c.contributionCount} ${c.contributionCount === 1 ? 'contribution' : 'contributions'}</title>`;
             const anel = real
                 ? `<polygon points="${hexagono(R * 0.9)}" fill="none" stroke="${t.mel[4]}" stroke-width="1.6" opacity="0">
             <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;${a};${b};${fmt(chega + 0.08)};1" dur="${duracao}s" repeatCount="indefinite"/>
@@ -194,9 +194,9 @@ function desenhar(calendario, t) {
         .map((n, i) => `<polygon points="${hexagono(7)}" transform="translate(${legendaX + 58 + i * 20} ${legendaY - 4})" fill="${n ? t.mel[n] : t.cera}" stroke="${t.borda}" stroke-width="1"/>`)
         .join('');
 
-    const plural = calendario.totalContributions === 1 ? 'contribuição' : 'contribuições';
+    const plural = calendario.totalContributions === 1 ? 'contribution' : 'contributions';
 
-    return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${largura} ${altura}" width="${largura}" height="${altura}" role="img" aria-label="Colmeia de commits de ${usuario}: ${calendario.totalContributions} ${plural} no último ano">
+    return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${largura} ${altura}" width="${largura}" height="${altura}" role="img" aria-label="Commit hive of ${usuario}: ${calendario.totalContributions} ${plural} in the last year">
   <style>
     text { font-family: 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; }
     .titulo { fill: ${t.texto}; font-size: 15px; font-weight: 700; letter-spacing: 0.4px; }
@@ -205,16 +205,16 @@ function desenhar(calendario, t) {
     .numero { fill: ${t.mel[4]}; font-weight: 700; }
   </style>
   <rect width="100%" height="100%" rx="14" fill="${t.fundo}"/>
-  <text x="${MARGEM_X}" y="34" class="titulo">COLMEIA DE COMMITS</text>
-  <text x="${MARGEM_X}" y="54" class="sub">cada favo é um dia. a abelha passa recolhendo o que eu fiz e enche de mel.</text>
-  <text x="${largura - MARGEM_X}" y="34" text-anchor="end" class="sub"><tspan class="numero">${calendario.totalContributions}</tspan> ${plural} no último ano</text>
+  <text x="${MARGEM_X}" y="34" class="titulo">COMMIT HIVE</text>
+  <text x="${MARGEM_X}" y="54" class="sub">every cell is a day. the bee fills the days I worked with honey.</text>
+  <text x="${largura - MARGEM_X}" y="34" text-anchor="end" class="sub"><tspan class="numero">${calendario.totalContributions}</tspan> ${plural} in the last year</text>
   ${rotulosMes}
   ${favos}
   ${mel}
-  <text x="${MARGEM_X}" y="${legendaY}" class="sub">${visitas.length} dias com mel</text>
-  <text x="${legendaX}" y="${legendaY}" class="sub">menos</text>
+  <text x="${MARGEM_X}" y="${legendaY}" class="sub">${visitas.length} days full of honey</text>
+  <text x="${legendaX}" y="${legendaY}" class="sub">less</text>
   ${legenda}
-  <text x="${legendaX + 58 + 5 * 20 - 2}" y="${legendaY}" class="sub">mais</text>
+  <text x="${legendaX + 58 + 5 * 20 - 2}" y="${legendaY}" class="sub">more</text>
   <g>
     <animateTransform attributeName="transform" type="translate" values="${vals.join(';')}" keyTimes="${kt.join(';')}" dur="${duracao}s" repeatCount="indefinite"/>
     ${abelha(t)}
@@ -226,4 +226,4 @@ const calendario = await buscarCalendario();
 mkdirSync(saida, { recursive: true });
 writeFileSync(`${saida}/colmeia-escura.svg`, desenhar(calendario, TEMAS.escuro));
 writeFileSync(`${saida}/colmeia-clara.svg`, desenhar(calendario, TEMAS.claro));
-console.log(`colmeia gerada: ${calendario.totalContributions} contribuições`);
+console.log(`colmeia: ${calendario.totalContributions}`);
