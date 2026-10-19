@@ -18,11 +18,17 @@
 
 ---
 
-### 🐝 Buzzing around right now
-🛍️ **Vynce Modas** · a full system for clothing stores, from the counter to WhatsApp<br>
-💰 **Sólon** · my final project at Fatec, personal finance with Open Finance<br>
-🎙️ **Papo de Faculdade** · the website of a college podcast, running on the edge<br>
-🔦 **Vynce Arcade** · games you play with a laser projector
+<div align="center">
+  <a href="https://vyncelabs.com.br" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/vynce-escuro.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/vynce-claro.svg">
+      <img alt="Vynce Labs" src="assets/vynce-escuro.svg" width="460">
+    </picture>
+  </a>
+</div>
+
+---
 
 ### Main skills:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=FFD000)&nbsp;
