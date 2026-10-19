@@ -40,9 +40,9 @@ A Vynce chama quem trabalha com a gente de parceiro, não de cliente. O mascote 
 Em vez de cobrinha ou pac-man, aqui cada dia do meu último ano vira um favo. Uma abelha passa por todos os dias em que eu contribuí e enche o favo de mel, mais dourado quanto mais eu fiz naquele dia. O favo do dia mais cheio do ano solta um brilho quando ela chega. Atualiza sozinha todo dia.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/output/colmeia-escura.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/output/colmeia-clara.svg">
-  <img alt="Colmeia de commits: uma abelha enche de mel os dias em que eu contribuí" src="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/output/colmeia-escura.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/colmeia/colmeia-escura.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/colmeia/colmeia-clara.svg">
+  <img alt="Colmeia de commits: uma abelha enche de mel os dias em que eu contribuí" src="https://raw.githubusercontent.com/Diogo-Mello/Diogo-Mello/colmeia/colmeia-escura.svg" width="100%">
 </picture>
 
 ### Onde me achar

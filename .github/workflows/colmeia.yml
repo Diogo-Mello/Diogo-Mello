@@ -32,10 +32,10 @@ jobs:
           USUARIO: ${{ github.repository_owner }}
           SAIDA: dist
 
-      - name: Publicar na branch output
+      - name: Publicar na branch colmeia
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
+          target_branch: colmeia
           build_dir: dist
           keep_history: true
         env:
